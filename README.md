@@ -4,7 +4,7 @@
 
 > A 3D remake of the popular mobile game **Crossy Road**, built with [React Three Fiber](https://docs.pmnd.rs/react-three-fiber) and deployed on GitHub Pages.
 
-[Play Now](https://junpyo0508.github.io/CrossyRoad/)  
+[🎮 Play Now](https://junpyo0508.github.io/CrossyRoad/)  
 
 ---
 
