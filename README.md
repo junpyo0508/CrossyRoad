@@ -28,9 +28,7 @@
 
 ## 사용 기술
 
-- **React** 19  
 - **React Three Fiber**  
 - **Three.js**  
 - **Zustand**  
 - **Vite**  
-- **gh-pages**
